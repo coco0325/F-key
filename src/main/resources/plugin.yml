@@ -1,0 +1,6 @@
+name: F-Key
+version: ${project.version}
+main: me.coco0325.fkey.FKey
+api-version: 1.13
+authors: [coco0325]
+description: A Spigot Plugin for Sneak&SwapItem Event Commands

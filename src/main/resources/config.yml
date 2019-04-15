@@ -1,0 +1,10 @@
+## F-key by coco0325
+
+## Action Commands
+## 同時蹲下和切換左右手(F)時要執行的指令 (使用;分隔多個指令(請不要多出空格))
+## Player ID Placeholder: %player%
+commands: "say hi;say I'm %player%"
+
+## Cancel Swap
+## 是否取消切換到副手的動作
+cancel_swap: true
